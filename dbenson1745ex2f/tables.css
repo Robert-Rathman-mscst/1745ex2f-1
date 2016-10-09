@@ -1,0 +1,59 @@
+/*
+   New Perspectives on HTML and CSS
+   
+
+   Tables Style Sheet
+   Author: Darren Benson
+   Date:   12/15/2015
+
+   Filename:         tables.css
+   Supporting Files: 
+
+*/
+
+/* Styles for the schedule table */
+
+table {
+	border: 8px outset rgb(173,216,230);
+	border-collapse: collapse;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.75em;
+	height: 15em;
+}
+
+table th, table td {
+	border: 1px solid gray;
+}
+
+/* Table header styles */
+
+table thead {
+	background-color: rgb(211,211,211);
+	color: black;
+	text-shadow: black 10px;
+}
+
+table thead tr {
+	height: 16%;
+}
+
+/* Table body styles */
+
+table tbody tr {
+	height: 16%;
+}
+
+table tbody td {
+	padding: .25em;
+	vertical-align: top;
+}
+
+table col.firstcol {
+	background-color: rgba(0,128,0,0.60);
+}
+
+table caption {
+	caption-side: bottom;
+	font-style: italic;
+}
+
