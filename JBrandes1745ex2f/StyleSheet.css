@@ -1,0 +1,10 @@
+﻿body {
+    background-color:darkgray;
+}
+
+aside {
+   float:right;
+}
+header {
+    font-size:200px;
+}
