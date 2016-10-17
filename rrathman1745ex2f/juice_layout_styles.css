@@ -1,0 +1,68 @@
+﻿/* CSS layout */
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url('juice_background.gif');
+	background-repeat: repeat;
+}
+
+#masthead {
+}
+
+#top_nav {
+}
+
+#container {
+	min-width: 600px;
+}
+
+#right_col {
+	width: 200px;
+	float: right;
+}
+
+#page_content {
+	padding: 6px;
+	margin-right: 200px;
+	line-height: 150%;
+	margin-top: 12px;
+}
+
+#footer {
+	clear: both;
+	color: #008000;
+	font-style: italic;
+	text-align: center;
+}
+#navlist li {
+	display: inline;
+	list-style-type: none;
+}
+#navlist a {
+	padding: 8px;
+}
+#navlist a:link, #navlist a:visited {
+	font-size: x-large;
+	font-weight: bold;
+	color: #FF5050;
+	background-color: #339933;
+}
+#navlist a:hover {
+	font-size: x-large;
+	font-weight: bold;
+	color: #008000;
+	background-color: #FF5050;
+}
+#sidebar {
+	font-style: italic;
+	color: #FFFFFF;
+	background-color: #008000;
+	padding: 6px;
+	margin: 6px;
+}
+.dropcap {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-large;
+	font-weight: bold;
+	color: #FF5050;
+}

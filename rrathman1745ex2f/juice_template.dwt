@@ -1,8 +1,6 @@
 ﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
 
-<!-- #BeginTemplate "juice_template.dwt" -->
-
 <head>
 <meta content="en-us" http-equiv="Content-Language" />
 <!-- #BeginEditable "doctitle" -->
@@ -30,28 +28,11 @@
 	<div id="right_col">
 <!-- #BeginEditable "sidebar" -->
 		<div id="sidebar">
-			Enjoy 10% off of all orders on Saturday, January 14, 2012, to 
-			celebrate our third birthday!</div>
+		</div>
 <!-- #EndEditable -->
 	</div>
 <!-- #BeginEditable "page_content" -->
 	<div id="page_content" style="width: 500px">
-		<h3>The Organic Experience</h3>
-		<p><span class="dropcap">A</span>ll of our juices and smoothies are made 
-		from organic herbs, fruits and vegetables. We use a combination of fresh 
-		and frozen ingredients, and buy locally whenever possible. You will 
-		never get processed or refined foods, sugars, or spices in one of our 
-		juices. We are committed to making business choices that support a 
-		sustainable environment, including using recycled materials in all of 
-		our paper products, composting, and using solar energy as our primary 
-		power source. </p>
-		<h3>Drink to your health!</h3>
-		<p><span class="dropcap">O</span>ur menu changes daily to reflect the 
-		ingredients we have on hand. Don’t see what you want? Create your own 
-		combination, or ask for a recommendation. All juices are made fresh to 
-		order. Juices make great breakfasts, snacks, or for post-workout 
-		replenishment, and are a great way to get in your daily intake of five 
-		fruits and vegetables.</p>
 	</div>
 <!-- #EndEditable -->
 </div>
@@ -59,7 +40,5 @@
 	Our juice is pure, organic, and always fresh!</div>
 
 </body>
-
-<!-- #EndTemplate -->
 
 </html>
